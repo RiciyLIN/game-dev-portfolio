@@ -45,6 +45,7 @@ VRならではの直感的な操作と物理挙動を活かしたゲーム体験
 - Unity
 - C#
 - VR Interaction
+- Blender（3Dモデリング）
 
 ---
 
