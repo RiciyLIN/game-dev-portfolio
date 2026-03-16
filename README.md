@@ -1,2 +1,6 @@
-# game-dev-portfolio
-Portfolio of Unity game development projects including VR gameplay systems.
+# Game Development Portfolio
+このリポジトリは、私のゲーム開発プロジェクトを紹介するポートフォリオです。
+大学でのチーム開発を通して、UnityとC#を用いたゲーム制作に取り組みました。
+
+ゲームプログラマーとして、ゲームの仕組みや物理挙動の実装に興味を持ち、
+プレイヤーが楽しめるゲーム体験を作ることを目標に開発を行っています。
