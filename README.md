@@ -46,11 +46,6 @@ Unity / C# / VR Game Development
 組み込みデバイス **M5GO** を使用して制作したカウントダウンタイマーです。  
 ボタン入力による時間設定、アラーム、スヌーズ機能を実装しました。
 
-使用技術：
-- Embedded Programming
-- Logic Control
-- Hardware Interaction
-
 👉 詳細はこちら  
 - [M5GO Countdown Timer](./m5go-timer)
 
