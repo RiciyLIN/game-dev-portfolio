@@ -15,7 +15,8 @@ Unity / C# / VR Game Development
 | プロジェクト | 概要 | 状態 |
 |---|---|---|
 | **アロード (Arrowd)** | 弓矢で道路を作り、馬車をゴールまで導くVRアクションゲーム | 完成 |
-| **Game Project 2** | 新しいゲームプロジェクト | 開発中 |
+| **Serious Game Project** | Arduino を用いたインタラクティブなシリアスゲーム | 2026年7月完成予定 |
+| **VR Graduation Project** | VRゲーム（卒業制作・個人開発） | 2026年末完成予定 |
 
 👉 **プロジェクト詳細**
 
