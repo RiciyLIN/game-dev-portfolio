@@ -12,10 +12,10 @@ VRならではの直感的な操作と物理挙動を活かしたゲーム体験
 ## 📸 ゲーム画面
 
 ### ステージ全体マップ
-![VR Map](./images/vr-map.png)
+![VR Map](../images/vr-map.png)
 
 ### ゲームプレイ画面
-![Gameplay](./images/vr-gameplay.png)
+![Gameplay](../images/vr-gameplay.png)
 
 > ※ゲームプレイ中のスクリーンショット
 
