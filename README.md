@@ -53,7 +53,7 @@ Unity / C# / VR Game Development
 - Hardware Interaction
 
 👉 詳細はこちら  
-- [アロード (Arrowd)](./m5go-timer)
+- [M5GO Countdown Timer](./m5go-timer)
 
 ---
 
