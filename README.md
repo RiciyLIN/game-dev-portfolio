@@ -62,24 +62,15 @@ Unity / C# / VR Game Development
 
 ---
 
-# 🛠 技術スキル
+# 🛠 学習中の技術
 
-### プログラミング言語
+現在、ゲーム開発を中心に以下の技術を学習しています。
 
 - C#
 - Python
-
-### ゲーム開発
-
 - Unity
-- Physics Simulation
-- Game Object Control
-- Gameplay Programming
-
-### 開発ツール
-
-- Git
-- GitHub
+- Blender
+- Arduino
 
 ---
 
