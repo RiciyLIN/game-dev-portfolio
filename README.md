@@ -37,8 +37,6 @@ Unity / C# / VR Game Development
 
 ![Gameplay](./images/vr-gameplay.png)
 
-👉 詳細ページ  
-[./arrowd](https://github.com/RiciyLIN/game-dev-portfolio/tree/main/arrowd)
 
 ---
 
