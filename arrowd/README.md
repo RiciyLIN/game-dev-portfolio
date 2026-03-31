@@ -64,7 +64,7 @@ VRならではの直感的な操作と物理挙動を活かしたゲーム体験
 チームで開発したプロジェクトのリポジトリはこちらです。
 
 👉  
-https://github.com/pakipkaiyokoyama/arrowd-team2
+[https://github.com/pakipkaiyokoyama/arrowd-team2](https://github.com/pakipkaiyokoyama/arrowd-team2/tree/main/arrowd_vr/Assets/rin)
 
 ---
 
