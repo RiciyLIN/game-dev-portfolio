@@ -96,7 +96,7 @@ PHPとMySQLを用いて、花のオンラインショップを開発しました
 「商品一覧 → 詳細 → 購入」までの導線をシンプルに設計しました。
 
 👉 詳細はこちら  
-- [M5GO Countdown Timer](./FlowerShop EC Site)
+- [M5GO Countdown Timer](./FlowerShopECSite)
 ---
 
 ## 🧪 追加プロジェクト
