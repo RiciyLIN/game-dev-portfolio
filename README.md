@@ -32,6 +32,15 @@
 大学のチーム開発プロジェクトとして制作しました。
 
 ---
+### 🎥 プレイ動画
+[YouTube Gameplay Video](https://youtu.be/UcxCPo0ZodY)
+
+---
+
+### 📦 実行ファイル（Google Drive）
+[Google Drive Build File](https://drive.google.com/file/d/1OTk3Ku0GI12vVgCfzmnQGQ9xzRrne5pR/view?usp=drive_link)
+
+---
 
 ### 🧠 担当（Responsibilities）
 
