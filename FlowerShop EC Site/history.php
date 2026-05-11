@@ -9,7 +9,7 @@ if (!isset($_SESSION['username'])) {
 
 $username = $_SESSION['username']; 
 
-$dsn = 'mysql:host=localhost;dbname=3cdn2214;charset=utf8';
+$dsn = 'mysql:host=localhost;dbname=flowershop_ec;charset=utf8';
 $usernameDB = 'root';
 $passwordDB = 'lin';
 
