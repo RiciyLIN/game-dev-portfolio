@@ -13,7 +13,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         if ($password !== $confirmPassword) {
             echo "<script>alert('パスワードが一致しません！');</script>";
         } else {
-            $conn = new mysqli('localhost', 'root', 'lin', '3cdn2214');
+            $conn = new mysqli('localhost', 'root', 'lin', 'flowershop_ec');
 
             if ($conn->connect_error) {
                 die('データベース接続失敗：' . $conn->connect_error);
